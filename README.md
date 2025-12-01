@@ -18,3 +18,9 @@ Este repositório contém os scripts SQL desenvolvidos para o mini-mundo de um r
 
 Aplicar conceitos de DDL e DML utilizando SQL para simular um ambiente real de banco de dados de restaurante.
 
+## 📊 Diagrama Entidade-Relacionamento (DER)
+
+O modelo conceitual do banco de dados utilizado neste projeto está disponível na imagem abaixo:
+
+![DER do Restaurante](./der/DER_Restaurante.png)
+
